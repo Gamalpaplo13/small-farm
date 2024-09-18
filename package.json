@@ -4,7 +4,7 @@
   "description": "learning node.js",
   "main": "app1.js",
   "scripts": {
-    "start": "nodemon app1.js"
+    "start": "nodemon app.js"
   },
   "author": "Gamal Gaber",
   "license": "ISC",
