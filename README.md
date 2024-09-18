@@ -9,7 +9,7 @@ This project is a simple Node.js server that serves dynamic HTML pages and JSON 
 1. **Clone the repository**:
 
     ```bash
-    git clone <repository-url>
+    git clone (https://github.com/gamalgaber/small-farm.git)
     ```
 
 2. **Navigate to the project directory**:
@@ -53,7 +53,7 @@ Feel free to fork the repository and submit pull requests. For significant chang
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License
 
 ## Acknowledgments
 
